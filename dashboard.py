@@ -16,13 +16,13 @@ import check_query
 headers_test = {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',
-                'Authorization': 'Bearer eyJrIjoibGJxeTMwTXp5dTBqT0R4SUU0dVhjcUNWQmpXcGlOR0ciLCJuIjoic2dvbW92IiwiaWQiOjF9'
+                'Authorization': '***********************'
         }
 
 headers = {
         'Accept': 'application/json',
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer eyJrIjoiaktXMTM1S3hVRjFSZXBVR0M3bWZhVWFSNDZxYThTTFYiLCJuIjoiYWRtaW5fZm9yX2Ryb3Bfd29yayIsImlkIjoxfQ=='
+        'Authorization': '******************************'
     }
 
 
